@@ -26,6 +26,17 @@ This project predicts the USD to INR exchange rate for the year 2026 using histo
 5. Hyperparameters (degree of polynomial and alpha) are tuned using `GridSearchCV`.
 6. The best model is selected and used to predict the exchange rate for 2026.
 7. The result is visualized using matplotlib.
+   
+## 📦 Dependencies
+Install the required Python packages:
+pip install pandas numpy matplotlib scikit-learn
+
+## ▶️ Run the Script
+python usd_inr_prediction.py
+
 
 ## 📈 Example Output
+## 📊 Visualization Output
+
+![USD to INR Prediction](usd_inr_prediction.png)
 
