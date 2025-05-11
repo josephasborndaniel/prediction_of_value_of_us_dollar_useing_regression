@@ -38,5 +38,5 @@ python usd_inr_prediction.py
 ## 📈 Example Output
 ## 📊 Visualization Output
 
-![USD to INR Prediction](usd_inr_prediction.png.png)
+![USD to INR Prediction](images/usd_inr_prediction.png.png)
 
